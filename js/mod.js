@@ -8,16 +8,19 @@ let modInfo = {
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
-	offlineLimit: 4,  // In hours
+	offlineLimit: 1,  // In hours
 }
 
 // Set your version in num and name
 let VERSION = {
-	num: "-1.0",
+	num: "0.0",
 	name: "seriously",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
+	<h3>v0.0</h3><br>
+		- The first update!<br>
+		- Still very bad,to be honest`
 	<h3>v-1.0</h3><br>
 		- Place.<br>
 		- Holder.`
