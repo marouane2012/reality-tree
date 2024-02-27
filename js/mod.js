@@ -20,7 +20,7 @@ let VERSION = {
 let changelog = `<h1>Changelog:</h1><br>
 	<h3>v0.0</h3><br>
 		- The first update!<br>
-		- Still very bad,to be honest
+		- Still very bad,to be honest`
 
 let winText = `you shouldnt be here`
 
