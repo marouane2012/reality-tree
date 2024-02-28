@@ -27,7 +27,7 @@ addLayer("p", {
     layerShown(){return true},
     upgrades: { 11:{title: "Not revealing this",
 description: "Start point generation.",
-cost: new Decimal(1)},12:{title: "The OP Upgrade",
-description: "Beat the game(oh yes)",
+cost: new Decimal(1)},12:{title: "no reveal",
+description: "Unlocks a buyable",
 cost: new Decimal(2)}}
 })
